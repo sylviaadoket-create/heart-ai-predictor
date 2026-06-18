@@ -6,3 +6,5 @@ numpy
 pandas
 shap
 seaborn
+plotly
+scikit-learn
